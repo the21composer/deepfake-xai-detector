@@ -1,0 +1,9 @@
+matplotlib==3.3.4
+numpy==1.23.2
+pandas==1.4.3
+Pillow==9.2.0
+pytorch_gradcam==0.2.1
+skimage==0.0
+torch==2.3.0
+torchvision==0.18.0
+tqdm==4.66.4
